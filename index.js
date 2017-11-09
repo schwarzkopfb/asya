@@ -162,4 +162,4 @@ ancestor.toAsync = toAsyncArray
 exports = module.exports = AsyncArray
 exports.default = exports.AsyncArray = AsyncArray
 exports.isArray = Array.isArray
-exports.isAsyncArray = Array.isAsyncArray = isAsyncArray
+exports.isAsyncArray = Array.isAsyncArray = Array.isAsync = isAsyncArray
