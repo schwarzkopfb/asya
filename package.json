@@ -1,0 +1,28 @@
+{
+  "name": "asya",
+  "version": "1.0.0-undocumented.0",
+  "description": "\"promisified\" Array descendant with some sweetener",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/**",
+    "cover": "npm test -- --cov --coverage-report=lcov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schwarzkopfb/asya.git"
+  },
+  "keywords": [
+    "async",
+    "array",
+    "promise"
+  ],
+  "author": "Schwarzkopf Balazs <schwarzkopfb@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schwarzkopfb/asya/issues"
+  },
+  "homepage": "https://github.com/schwarzkopfb/asya#readme",
+  "devDependencies": {
+    "tap": "^10.7.2"
+  }
+}
